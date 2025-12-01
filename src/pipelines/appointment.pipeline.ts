@@ -5,8 +5,8 @@ import {
 } from "../interfaces/appointment.interface";
 
 const COLLECTIONS = {
-  PATIENT_PROFILE: "patientprofiles",
-  DOCTOR_PROFILE: "doctorProfiles",
+  PATIENT_PROFILE: "patientProfiles",
+  DOCTOR_PROFILE: "doctorprofiles",
   USERS: "users",
 } as const;
 
